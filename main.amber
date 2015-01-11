@@ -1,0 +1,4 @@
+Main([String] args)
+{
+  Print("Hello world!\n");
+}
