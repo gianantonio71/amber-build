@@ -2,7 +2,7 @@
 runme: generated.cpp generated.h
 	g++ -I. -Iruntime -O3 -DNDEBUG generated.cpp runtime/*.cpp -o runme
 
-generated.cpp generated.h: main.amber
+generated.cpp generated.h: main.ar
 	./amberc prj.txt
 
 clean:

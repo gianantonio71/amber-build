@@ -1,3 +1,3 @@
-stdlib/prelude.amber
-stdlib/treap.amber
-main.amber
+stdlib/prelude.ar
+stdlib/treap.ar
+main.ar
